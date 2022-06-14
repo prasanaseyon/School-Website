@@ -1,0 +1,19 @@
+.r11{
+    
+    padding: 7%  0 2%;
+    text-align: center;
+    background-size: cover;
+}
+
+h2,h3{
+    font-size: 150%;
+}
+.section-photo{
+    padding: 0;
+}
+
+.title{
+    display: inline-block;
+    margin: 0 auto;
+    margin-left: 25%;
+}
